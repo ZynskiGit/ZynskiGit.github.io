@@ -1,0 +1,8 @@
+Website Colors:
+Dark Red: 960103
+Red:dd2233
+Gold: c0a977
+Light Gold: e2c6a1
+Dark Gold:4a463a
+Black:010101
+White:e4e9e5
