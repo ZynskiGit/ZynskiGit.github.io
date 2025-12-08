@@ -1,0 +1,1 @@
+Hi there! This is my repository for my personale website to share some of my experience and skills and a data scientist and analyst, a team captain at a competetive division one program, and my additional hobbies and interests.
